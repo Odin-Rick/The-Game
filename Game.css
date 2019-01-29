@@ -1,11 +1,24 @@
-body { background-color: aquamarine;
-	
+body { 
+	background-image: url("img/kamer.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-color: black;
 }
-
-h2 {
+#title {
 	text-align: center;
+	color: white;
 }
-p {
+#description {
 	text-align: center;
+	color: white;
+}	
+#start{
+	text-align: center;
+ 	margin-left: 730px;
+ 	font-size: 16px;
+ 	background-color: black;
+ 	border-style: none;
+ 	color: white;
+ 	margin-top: 20px;
 }
 
